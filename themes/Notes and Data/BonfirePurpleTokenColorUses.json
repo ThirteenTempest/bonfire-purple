@@ -1,0 +1,116 @@
+{
+	"#8F8CA4": {
+		"namesUsed": [
+			"Comment"
+		]
+	},
+	"#5fbe50": {
+		"namesUsed": [
+			"String"
+		]
+	},
+	"#b6b1b1": {
+		"namesUsed": [
+			"Punctuation within templates",
+			"Key-value separator"
+		]
+	},
+	"#49d6e9": {
+		"namesUsed": [
+			"Variable",
+			"Support variable",
+			"Object literal key / property",
+			"Markup heading",
+			"Markup list",
+			"C# local variable",
+			"C# properties and fields",
+			"Elixir Binary Punctuation"
+		]
+	},
+	"#fe4450": {
+		"namesUsed": [
+			"Language variable",
+			"Entity",
+			"Class",
+			"Support",
+			"CSS support functions (rgb)",
+			"C# storage type"
+		]
+	},
+	"undefined": {
+		"namesUsed": [
+			"Parameter"
+		]
+	},
+	"#7191FE": {
+		"namesUsed": [
+			"Storage (declaration or modifier keyword)"
+		]
+	},
+	"#FFA238": {
+		"namesUsed": [
+			"Constant",
+			"Regex",
+			"Number",
+			"Language constant (boolean, null)",
+			"Character escape",
+			"HTML or XML tag",
+			"JS Export",
+			"Unit",
+			"Template expression",
+			"CSS property",
+			"JS Switch control",
+			"Color",
+			"Font names",
+			"Markup link description",
+			"Elixir Functions",
+			"Elixir String Punctuation",
+			"Elixir"
+		]
+	},
+	"#B57CF6": {
+		"namesUsed": [
+			"HTML or XML tag brackets",
+			"Function",
+			"Support function",
+			"CSS #id",
+			"Python function call",
+			"Elixir Classes",
+			"Elixir Constants"
+		]
+	},
+	"#fede5d": {
+		"namesUsed": [
+			"Tag attribute",
+			"Tag attribute HTML",
+			"Operator",
+			"Special operator",
+			"Embedded puncuation",
+			"Markup text",
+			"C++ operators"
+		]
+	},
+	"#D50": {
+		"namesUsed": [
+			"Inherited class",
+			"Pseudo CSS",
+			"Markup link"
+		]
+	},
+	"#FF7E7A": {
+		"namesUsed": [
+			"Keyword",
+			"Control keyword"
+		]
+	},
+	"#2ee2fa": {
+		"namesUsed": [
+			"JS object path"
+		]
+	},
+	"#b6b1b1cc": {
+		"namesUsed": [
+			"Markup quote"
+		]
+	}
+}

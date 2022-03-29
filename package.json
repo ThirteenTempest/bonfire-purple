@@ -1,0 +1,21 @@
+{
+    "name": "bonfire-purple",
+    "displayName": "Bonfire Purple",
+    "description": "My own theme. It's purple. You can make it glow if you want.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bonfire Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bonfire Purple-color-theme.json"
+            }
+        ]
+    }
+}

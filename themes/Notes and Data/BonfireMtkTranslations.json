@@ -1,0 +1,161 @@
+[
+	{
+		"name": ".mtk1",
+		"translatedColor": "#d2cfe3",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk2",
+		"translatedColor": "#27243d",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk3",
+		"translatedColor": "#49d6e9",
+		"associatedNames": [
+			"Variable",
+			"Support variable",
+			"Object literal key / property",
+			"Markup heading",
+			"Markup list",
+			"C# local variable",
+			"C# properties and fields",
+			"Elixir Binary Punctuation"
+		],
+		"overwrittenColor": "#2acff9ff",
+		"shadows": [
+			"#0c1010ff",
+			"#07b0dc33"
+		]
+	},
+	{
+		"name": ".mtk4",
+		"translatedColor": "#8f8ca4",
+		"associatedNames": [],
+		"overwrittenColor": "#766eb2ff"
+	},
+	{
+		"name": ".mtk5",
+		"translatedColor": "#ffa238",
+		"associatedNames": [],
+		"overwrittenColor": "#f9ba72ff"
+	},
+	{
+		"name": ".mtk6",
+		"translatedColor": "#b57cf6",
+		"associatedNames": [],
+		"overwrittenColor": "#fdfdfdff", 
+		"temp": "#f5ecfd",
+		"shadows": [
+			"#0a0017ff",
+			"#8504f875",
+			"#8504f875",
+			"#8504f875"
+		]
+	},
+	{
+		"name": ".mtk7",
+		"translatedColor": "#fe4450",
+		"associatedNames": [
+			"Language variable",
+			"Entity",
+			"Class",
+			"Support",
+			"CSS support functions (rgb)",
+			"C# storage type"
+		],
+		"overwrittenColor": "#fff5f6ff",
+		"temp": "#ffebed",
+		"shadows": [
+			"#fd1e2c75"
+		]
+	},
+	{
+		"name": ".mtk8",
+		"translatedColor": "#fede5d",
+		"associatedNames": [
+			"Tag attribute",
+			"Tag attribute HTML",
+			"Operator",
+			"Special operator",
+			"Embedded puncuation",
+			"Markup text",
+			"C++ operators"
+		],
+		"overwrittenColor": "#f1d872ff",
+		"shadows": [
+			"#0c0e10ff",
+			"#7c6b2575",
+			"#27262175"
+		]
+	},
+	{
+		"name": ".mtk9",
+		"translatedColor": "#dd5500",
+		"associatedNames": [],
+		"overwrittenColor": "#f4e7e4ff",
+		"shadows": [
+			"#3a3833ff",
+			"#f43b0475"
+		]
+	},
+	{
+		"name": ".mtk10",
+		"translatedColor": "#ff7e7a",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk11",
+		"translatedColor": "#b6b1b1cc",
+		"associatedNames": [
+			"Markup quote"
+		]
+	},
+	{
+		"name": ".mtk12",
+		"translatedColor": "#b6b1b1",
+		"associatedNames": [
+			"Punctuation within templates",
+			"Key-value separator"
+		]
+	},
+	{
+		"name": ".mtk13",
+		"translatedColor": "#5fbe50",
+		"associatedNames": [
+			"String"
+		]
+	},
+	{
+		"name": ".mtk14",
+		"translatedColor": "#7191fe",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk15",
+		"translatedColor": "#b267e6",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk16",
+		"translatedColor": "#f44747",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk17",
+		"translatedColor": "#6796e6",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk18",
+		"translatedColor": "#cd9731",
+		"associatedNames": []
+	},
+	{
+		"name": ".mtk19",
+		"translatedColor": "#2ee2fa",
+		"associatedNames": [
+			"JS object path"
+		]
+	}
+]
