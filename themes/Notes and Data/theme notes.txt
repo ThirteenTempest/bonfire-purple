@@ -1,0 +1,65 @@
+#ff8b39 : Was string, could be include and scope stuff, changed to #5fbe50 
+#ff7edb : Was variable name, changed to #49d6e9
+#fede5d : Was variable type, changed to #ff5747 -> #5182FF
+#36f9f6 : Was function, changed to #cb8cff -> #d6a3ff -> #F1B2FF -> #e15cff -> #b473ff
+#fede5d : Was character escape, changed to #f97e72
+All instances of #f97e72 -> #ff8b38
+#72f1b8 : Was tag name, changed to #ff8b38
+#fede5d : Was Keyword and Keyword Control, #ff5747
+#ffffffee : Was operator equals, -> #fede5d
+
+#495495 : Was comment, -> #716c93
+
+
+General color changes at this stage: 
+#f97e72 -> #ff8b38
+#fede5d -> #5182FF
+#fede5d -> #ff5747
+#ff7edb -> #49d6e9
+#36f9f6 -> #b473ff
+#ff8b39 -> #5fbe50
+#495495 -> #716c93
+
+
+Accessability pass, based on #27243D
+
+tokens
+#ff8b38 -> #FFA238
+#5182FF -> #7191FE
+#ff5747 -> #FF7E7A
+#b473ff -> #B57CF6
+#716c93 -> #8F8CA4
+
+colors
+#c5c2d6 -> #D2CFE3
+#9186DF -> #B4AAFF
+#171523 -> #141220
+#2f2c49 -> #322F4C
+#8787ab -> #a9a5c0
+#CDD3DE -> #D2CFE3
+#322d52 -> #322F4C
+#595289 -> #9592AF
+#7060eb -> #7361ff
+
+
+#404072
+#49408C
+
+
+#7060eb
+
+#27243D
+#2f2c49
+
+
+semantic token type	parameter
+modifiers	declaration
+foreground, bold, italic, underline, strikethrough	variable.parameter
+entity.name.variable.parameter
+meta.at-rule.function variable
+meta.at-rule.mixin variable
+meta.function.arguments variable.other.php
+meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql
+variable.parameter
+
+

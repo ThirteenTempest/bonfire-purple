@@ -1,0 +1,200 @@
+{
+	"#495495": {
+		"namesUsed": [
+			"Comment"
+		],
+		"toBonfireTranslations": {
+			"Comment": "#8F8CA4"
+		}
+	},
+	"#ff8b39": {
+		"namesUsed": [
+			"String"
+		],
+		"toBonfireTranslations": {
+			"String": "#5fbe50"
+		}
+	},
+	"#b6b1b1": {
+		"namesUsed": [
+			"Punctuation within templates",
+			"Key-value separator"
+		],
+		"toBonfireTranslations": {
+			"Punctuation within templates": "#b6b1b1",
+			"Key-value separator": "#b6b1b1"
+		}
+	},
+	"#ff7edb": {
+		"namesUsed": [
+			"Variable",
+			"Support variable",
+			"Object literal key / property",
+			"Markup heading",
+			"Markup list",
+			"C# local variable",
+			"C# properties and fields",
+			"Elixir Binary Punctuation"
+		],
+		"toBonfireTranslations": {
+			"Variable": "#49d6e9",
+			"Support variable": "#49d6e9",
+			"Object literal key / property": "#49d6e9",
+			"Markup heading": "#49d6e9",
+			"Markup list": "#49d6e9",
+			"C# local variable": "#49d6e9",
+			"C# properties and fields": "#49d6e9",
+			"Elixir Binary Punctuation": "#49d6e9"
+		}
+	},
+	"#fe4450": {
+		"namesUsed": [
+			"Language variable",
+			"Entity",
+			"Class",
+			"Support",
+			"CSS support functions (rgb)",
+			"C# storage type"
+		],
+		"toBonfireTranslations": {
+			"Language variable": "#fe4450",
+			"Entity": "#fe4450",
+			"Class": "#fe4450",
+			"Support": "#fe4450",
+			"CSS support functions (rgb)": "#fe4450",
+			"C# storage type": "#fe4450"
+		}
+	},
+	"undefined": {
+		"namesUsed": [
+			"Parameter"
+		],
+		"toBonfireTranslations": {}
+	},
+	"#fede5d": {
+		"namesUsed": [
+			"Storage (declaration or modifier keyword)",
+			"Tag attribute",
+			"Tag attribute HTML",
+			"Keyword",
+			"Control keyword",
+			"Operator",
+			"Special operator",
+			"Embedded puncuation",
+			"C++ operators"
+		],
+		"toBonfireTranslations": {
+			"Storage (declaration or modifier keyword)": "#7191FE",
+			"Tag attribute": "#fede5d",
+			"Tag attribute HTML": "#fede5d",
+			"Keyword": "#FF7E7A",
+			"Control keyword": "#FF7E7A",
+			"Operator": "#fede5d",
+			"Special operator": "#fede5d",
+			"Embedded puncuation": "#fede5d",
+			"C++ operators": "#fede5d"
+		}
+	},
+	"#f97e72": {
+		"namesUsed": [
+			"Constant",
+			"Regex",
+			"Number",
+			"Language constant (boolean, null)",
+			"Unit",
+			"Color",
+			"Font names",
+			"Markup link description"
+		],
+		"toBonfireTranslations": {
+			"Constant": "#FFA238",
+			"Regex": "#FFA238",
+			"Number": "#FFA238",
+			"Language constant (boolean, null)": "#FFA238",
+			"Unit": "#FFA238",
+			"Color": "#FFA238",
+			"Font names": "#FFA238",
+			"Markup link description": "#FFA238"
+		}
+	},
+	"#36f9f6": {
+		"namesUsed": [
+			"Character escape",
+			"HTML or XML tag brackets",
+			"Function",
+			"Support function",
+			"CSS #id",
+			"Python function call",
+			"Elixir Classes",
+			"Elixir Constants"
+		],
+		"toBonfireTranslations": {
+			"Character escape": "#FFA238",
+			"HTML or XML tag brackets": "#B57CF6",
+			"Function": "#B57CF6",
+			"Support function": "#B57CF6",
+			"CSS #id": "#B57CF6",
+			"Python function call": "#B57CF6",
+			"Elixir Classes": "#B57CF6",
+			"Elixir Constants": "#B57CF6"
+		}
+	},
+	"#72f1b8": {
+		"namesUsed": [
+			"HTML or XML tag",
+			"JS Export",
+			"Template expression",
+			"CSS property",
+			"JS Switch control",
+			"Elixir Functions",
+			"Elixir String Punctuation",
+			"Elixir"
+		],
+		"toBonfireTranslations": {
+			"HTML or XML tag": "#FFA238",
+			"JS Export": "#FFA238",
+			"Template expression": "#FFA238",
+			"CSS property": "#FFA238",
+			"JS Switch control": "#FFA238",
+			"Elixir Functions": "#FFA238",
+			"Elixir String Punctuation": "#FFA238",
+			"Elixir": "#FFA238"
+		}
+	},
+	"#D50": {
+		"namesUsed": [
+			"Inherited class",
+			"Pseudo CSS",
+			"Markup link"
+		],
+		"toBonfireTranslations": {
+			"Inherited class": "#D50",
+			"Pseudo CSS": "#D50",
+			"Markup link": "#D50"
+		}
+	},
+	"#2ee2fa": {
+		"namesUsed": [
+			"JS object path"
+		],
+		"toBonfireTranslations": {
+			"JS object path": "#2ee2fa"
+		}
+	},
+	"#ffffffee": {
+		"namesUsed": [
+			"Markup text"
+		],
+		"toBonfireTranslations": {
+			"Markup text": "#fede5d"
+		}
+	},
+	"#b6b1b1cc": {
+		"namesUsed": [
+			"Markup quote"
+		],
+		"toBonfireTranslations": {
+			"Markup quote": "#b6b1b1cc"
+		}
+	}
+}
